@@ -21,7 +21,7 @@
     },
     "portMappings": [
       {
-        "containerPort": 7000,
+        "containerPort": 8500,
         "hostPort": 31056,
         "labels": {},
         "name": "rrr",
